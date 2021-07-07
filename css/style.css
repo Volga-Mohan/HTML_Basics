@@ -1,0 +1,32 @@
+body{
+    background-color: darkgray;
+    margin: 20px 0;
+    font-family: sans-serif;
+}
+
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+header{
+    padding: 50px;
+}
+
+header > #heading{
+    font-size: 2em
+}
+
+main{
+    padding: 50px;
+}
+
+/* section{
+    float: left;
+}
+
+aside{
+    float:right;
+} */
